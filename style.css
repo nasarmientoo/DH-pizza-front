@@ -73,7 +73,7 @@ main {
     background-position: center;
     background-size: cover;
     padding: 1.5%;
-    width: 45%;
+    width: 45vw;
     height: auto;
     border-radius: 5px;
     margin: 5px;
@@ -83,7 +83,8 @@ main {
     background-color: #FFFFFF;
     padding: 1.5% 4% 2% 4%;
     border-radius: 5px;
-    width: 45%;
+    width: 45vw;
+    height: 55vh;
     margin: 5px;
     cursor: pointer;
 }
