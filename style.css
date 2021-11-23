@@ -49,6 +49,7 @@ header a {
     font-size: 18px;
     margin: 6px;
     font-weight: lighter;
+    cursor: pointer;
 }
 
 
@@ -72,19 +73,19 @@ main {
     background-position: center;
     background-size: cover;
     padding: 1.5%;
-    width: 490px;
-    height: 350px;
+    width: 45%;
+    height: auto;
     border-radius: 5px;
-    margin: 5px
+    margin: 5px;
 }
 
 .podio {
     background-color: #FFFFFF;
     padding: 1.5% 4% 2% 4%;
     border-radius: 5px;
-    width: 490px;
-    height: 350px;
-    margin: 5px
+    width: 45%;
+    margin: 5px;
+    cursor: pointer;
 }
 
 .podio h2 {
@@ -120,6 +121,7 @@ footer>div:last-child {
     font-size: 22px;
     display: flex;
     align-items: center;
+    cursor: pointer;
 }
 
 footer img {
